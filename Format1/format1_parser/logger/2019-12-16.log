@@ -1,0 +1,21 @@
+2019-12-16 12:38:07,001 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:38:07,414 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:38:07,415 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:42:16,741 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:42:17,181 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:42:17,183 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:43:18,893 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:43:19,543 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:43:19,546 | DEBUG    | 0117 | Exception in replacing empty
+2019-12-16 12:58:48,173 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 12:58:48,581 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 12:58:48,583 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 13:01:20,869 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 13:01:21,283 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 13:01:21,285 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 13:18:08,454 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 13:18:08,902 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 13:18:08,904 | DEBUG    | 0113 | Exception in replacing empty
+2019-12-16 14:22:52,673 | INFO     | 0415 | Concatenation start at2019-12-16 14:22:52.673367
+2019-12-16 14:22:59,629 | DEBUG    | 0065 | Exception in parsing 
+2019-12-16 14:22:59,630 | DEBUG    | 0066 | unsupported operand type(s) for +=: 'NoneType' and 'str'
